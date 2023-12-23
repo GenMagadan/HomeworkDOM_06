@@ -1,11 +1,11 @@
-const dataInfo = `[
+const dataInfo = [
    {
       "Модель": "DEWALT D 25133 K",
       "Мощность": "800 Вт",
       "Количество режимов": "3",
       "Max диаметр сверления буром (бетон)": "26 мм",
       "Вес нетто": "2.6 кг",
-      "Сила удара": 2.8 Дж,
+      "Сила удара": "2.8 Дж",
       "Цена": "16900 руб",
       "image": "https://megastroy.com/storage/products/302136_3_dbe40d4b029bdf06c126fcc9a88d81f0.jpeg"
    },
@@ -15,7 +15,7 @@ const dataInfo = `[
       "Количество режимов": "2",
       "Max диаметр сверления буром (бетон)": "50 мм",
       "Вес нетто": "11.8 кг",
-      "Сила удара": 27 Дж,
+      "Сила удара": "27 Дж",
       "Цена": "111700 руб",
       "image": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/130694/1200x800/51131546.jpg"
    },
@@ -25,7 +25,7 @@ const dataInfo = `[
       "Количество режимов": "3",
       "Max диаметр сверления буром (бетон)": "28 мм",
       "Вес нетто": "3.1 кг",
-      "Сила удара": 3.2 Дж,
+      "Сила удара": "3.2 Дж",
       "Цена": "43890 руб",
       "image": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/795282/1200x800/51981735.jpg"
    },
@@ -35,7 +35,7 @@ const dataInfo = `[
       "Количество режимов": "3",
       "Max диаметр сверления буром (бетон)": "26 мм",
       "Вес нетто": "3.1 кг",
-      "Сила удара": 2.4 Дж,
+      "Сила удара": "2.4 Дж",
       "Цена": "23250 руб",
       "image": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/776376/1200x800/51782670.jpg"
    },
@@ -45,7 +45,7 @@ const dataInfo = `[
       "Количество режимов": "2",
       "Max диаметр сверления буром (бетон)": "50 мм",
       "Вес нетто": "11.2 кг",
-      "Сила удара": 29 Дж,
+      "Сила удара": "29 Дж",
       "Цена": "35900 руб",
       "image": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/221673/1200x800/53056274.jpg"
    },
@@ -55,8 +55,8 @@ const dataInfo = `[
       "Количество режимов": "2",
       "Max диаметр сверления буром (бетон)": "45 мм",
       "Вес нетто": "6.8 кг",
-      "Сила удара": 12.5 Дж,
+      "Сила удара": "12.5 Дж",
       "Цена": "20600 руб",
       "image": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/6729781/1200x800/71186545.jpg"
    },
-]`
+];
