@@ -1,4 +1,4 @@
-const dataInfo = [
+export const product = `[
    {
       "Модель": "DEWALT D 25133 K",
       "Мощность": "800 Вт",
@@ -58,5 +58,5 @@ const dataInfo = [
       "Сила удара": "12.5 Дж",
       "Цена": "20600 руб",
       "image": "https://cdn.vseinstrumenti.ru/images/goods/stroitelnyj-instrument/perforatory/6729781/1200x800/71186545.jpg"
-   },
-];
+   }
+]`
